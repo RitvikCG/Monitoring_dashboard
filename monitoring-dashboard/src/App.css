@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.logTableData{
+  border: 1px solid black;
+  padding: 7px 12px;
+}
+.logTable {
+  width: 100%;
+  height: 50%;
+  margin: 30px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
